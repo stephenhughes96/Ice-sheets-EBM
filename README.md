@@ -1,13 +1,8 @@
 # Ice-sheets-EBM
 
-## This is a subheader
+This code repository will geneerate all the graphs in CHapter 5 of the thesis.
 
-### So on and so forth
+All necessary data input is given in the folder /Input_data
 
-* You can do dot points
-* Like this
+To run each code script all that is required is a python install and LaTeX for generating the text in each figure.
 
-1. Also lists
-2. Like this
-
-https://stackedit.io/app#
